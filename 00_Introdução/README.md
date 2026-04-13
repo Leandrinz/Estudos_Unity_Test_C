@@ -22,7 +22,7 @@ git clone https://github.com/ThrowTheSwitch/Unity.git
 
 Isso irá criar uma pasta chamada `Unity` no seu projeto.
 
-![alt text](image-1.png)
+![alt text](image.png)
 
 ---
 
