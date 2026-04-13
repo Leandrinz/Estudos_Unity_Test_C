@@ -2,7 +2,7 @@
 
 ### Corpo do arquivo:
 ```c
-#include "unity.h"
+#include "unity.h" // Acessamos o Unity e suas funções
 #include "arquivo_que_sera_testado.h"
 
 void setUp(void){
