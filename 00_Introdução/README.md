@@ -30,16 +30,23 @@ Isso irá criar uma pasta chamada `Unity` no seu projeto.
 
 Crie um arquivo chamado `Makefile` e adicione o seguinte conteúdo:
 
-```c
+```makefile
 CC = gcc
 UNITY_SRC = ./Unity/src
 CFLAGS = -I$(UNITY_SRC)
 
-PASTA = 01_Asserts
-ARQUIVO = Exercicio1
+
+AULA = Treino
+# Coloque aqui a Pasta onde está seus arquivos de teste e funções a serem testadas
+ARQUIVO_COM_TESTES = TExercicio1
+# Coloque o nome do arquivo que contém seus testes
+ARQUIVO_COM_FUNCOES = Exercicio1.c
+# Coloque o nome do arquivo que contém as funções
+
+# CUIDADO COM OS ESPAÇOS DEPOIS DOS NOMES DAS VARIÁVEIS (vai por mim, passei 1 dia sofrendo só por causa de um erro de espaço)
 
 all:
-	$(CC) $(CFLAGS) $(UNITY_SRC)/unity.c $(PASTA)/$(ARQUIVO).c -o test.exe
+	$(CC) $(CFLAGS) $(UNITY_SRC)/unity.c $(AULA)/$(ARQUIVO_COM_TESTES).c $(AULA)/$(ARQUIVO_COM_FUNCOES) -o test.exe
 	./test.exe
 
 clean:
