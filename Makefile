@@ -4,9 +4,9 @@ CFLAGS = -I$(UNITY_SRC)
 
 AULA = Treino
 # Coloque aqui a Pasta onde está seus arquivos de teste e funções a serem testadas
-ARQUIVO_COM_TESTES = TExercicio2
+ARQUIVO_COM_TESTES = TExercicio3
 # Coloque o nome do arquivo que contém seus testes
-ARQUIVO_COM_FUNCOES = Exercicio2.c
+ARQUIVO_COM_FUNCOES = Exercicio3.c
 # Coloque o nome do arquivo que contém as funções
 
 all:
