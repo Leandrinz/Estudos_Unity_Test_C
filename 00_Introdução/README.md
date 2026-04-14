@@ -10,7 +10,7 @@ Para utilizarmos essa ferramenta, precisamos seguir alguns passos para que os te
 
 ---
 
-## 🔧 Método 1: Clonando o Repositório do Unity
+## 🔧 Método: Clonando o Repositório do Unity
 
 ### 📍 Passo 1: Clonar o repositório
 
