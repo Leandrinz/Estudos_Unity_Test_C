@@ -30,7 +30,7 @@ Após instalar, execute novamente o comando no terminal para confirmar que tudo 
 
 ## 🔹 2º Passo: Instalação do Ceedling
 
-O **Ceedling** vai ser o nosso grande aliado aqui *(pedir a bênção nem seria exagero 😄)*.
+O **Ceedling** vai ser o nosso grande aliado aqui *(pedir a bênção nem seria exagero )*.
 
 Ele vai nos livrar de muita dor de cabeça.
 
