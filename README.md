@@ -21,8 +21,7 @@ Muitos desenvolvedores sentem dificuldade ao entrar no mundo de testes, especial
 
 - [x] **Configuração de Ambiente:** Como integrar o Unity ao seu projeto usando `Makefile`.
 - [x] **Testes de Asserts:** Exemplos de `TEST_ASSERT_EQUAL`, `TEST_ASSERT_NULL`, entre outros.
-- [ ] **Casos Práticos:** Exercícios de lógica de programação validados pelo framework.
-- [ ] **Mocking (CMock):** *(Em breve)* Estudos avançados sobre simulação de dependências.
+- [x] **Mocking (CMock):** *(Em breve)* Estudos avançados sobre simulação de dependências.
 
 ---
 
