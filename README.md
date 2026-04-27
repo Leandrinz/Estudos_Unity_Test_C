@@ -1,6 +1,6 @@
 # 🧪 Estudos Unity Test Framework (C)
 
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 ![Language](https://img.shields.io/badge/Language-C-blue)
 
 Este repositório é dedicado ao estudo e prática do **Unity Test**, um framework de testes unitários leve e poderoso para a linguagem C. Aqui, documento meu progresso, exercícios e configurações essenciais para dominar a arte de testar código.
