@@ -171,6 +171,8 @@ Essa é um pouco mais avançada e muito útil.
 Se a função preenche um ponteiro:
 
 ```c
+#include <stdbool.h>
+
 bool ler_valor(int *valor);
 ```
 
